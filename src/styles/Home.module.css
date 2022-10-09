@@ -1,0 +1,69 @@
+
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+}
+
+.grid {
+  display: flex;
+  min-height: 90vh;
+  align-items: center;
+  gap: 60px;
+}
+
+.image,
+.about {
+  flex: 1;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  gap: 20px;
+}
+
+
+.icons li span {
+  position: relative;
+  top: -2px;
+  font-size: .9rem;
+  margin-right: 10px;
+}
+
+.icons li {
+  font-size: 1.3rem;
+}
+
+.title {
+  font-size: 3rem;
+  line-height: 1.2;
+  margin: 15px 0 0;
+}
+
+.aboutText {
+  line-height: 1.5;
+  margin: 25px 0 35px;
+  opacity: .7;
+}
+
+.imageBox {
+  position: relative;
+  width: 400px;
+  height: 450px;
+  overflow: hidden;
+  /* border-radius: 20px; */
+  border-radius: 10px;
+  z-index: 0;
+  /* border: 2px solid #F7B843; */
+  background: var(--color1);
+}
+
+.imageBox img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
