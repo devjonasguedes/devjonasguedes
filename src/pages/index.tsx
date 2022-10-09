@@ -30,7 +30,7 @@ const Home: NextPage = () => {
               </ul>
               <h1 className={styles.title}>
                 {/* Senior Front-end Developer */}
-                Desenvolvedor Front-end Sênior
+                Desenvolvedor <br /> Front-end Sênior
               </h1>
               <p className={styles.aboutText}>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque
