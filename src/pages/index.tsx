@@ -31,17 +31,32 @@ const Home: NextPage = () => {
               <ul className={styles.icons}>
                 {/* <li><span>Redes Sociais</span></li> */}
                 <li>
-                  <a href="#" className="dribbble">
+                  <a
+                    href="https://dribbble.com/jgcardoso"
+                    className="dribbble"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <i className="bi bi-dribbble"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="linkedin">
+                  <a
+                    href="https://www.linkedin.com/in/jgcaardoso/"
+                    className="linkedin"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <i className="bi bi-linkedin"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="twitter">
+                  <a
+                    href="https://twitter.com/jgcaardoso"
+                    className="twitter"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <i className="bi bi-twitter"></i>
                   </a>
                 </li>
