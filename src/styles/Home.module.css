@@ -41,12 +41,17 @@
 .title {
   font-size: 3rem;
   line-height: 1.2;
-  margin: 15px 0 0;
+  margin: 15px 0 25px;
+}
+
+.subtitle {
+  margin: 15px 0;
+  font-weight: 400;
 }
 
 .aboutText {
   line-height: 1.6;
-  margin: 25px 0 35px;
+  margin: 15px 0;
   opacity: .7;
 }
 
