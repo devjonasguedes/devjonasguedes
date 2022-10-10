@@ -51,8 +51,8 @@ const Home: NextPage = () => {
                 Desenvolvedor <br /> Front-end Sênior
               </h1>
               <p className={styles.aboutText}>
-                Me chamo Jonas Guedes, moro em Brasília - DF. Trabalho como
-                desenvolvedor front-end para web a mais de 8 anos. Adoro criar
+                Me chamo Jonas Guedes, moro em Brasília - DF. Trabalho com
+                desenvolvimento front-end para web a mais de 8 anos. Adoro criar
                 interfaces e ver tudo acontecendo no navegador.
               </p>
               <p className={styles.aboutText}>
