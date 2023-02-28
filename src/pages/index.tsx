@@ -62,26 +62,19 @@ const Home: NextPage = () => {
                 </li>
               </ul>
               <h1 className={styles.title}>
-                {/* Senior Front-end Developer */}
-                Desenvolvedor <br /> Front-end Sênior
+                Desenvolvedor <br /> Front-end
               </h1>
               <p className={styles.aboutText}>
                 Me chamo Jonas Guedes, moro em Brasília - DF. Trabalho com
-                desenvolvimento front-end para web a mais de 8 anos. Adoro criar
-                interfaces e ver tudo acontecendo no navegador.
-              </p>
-              <p className={styles.aboutText}>
-                Atualmente estou trabalhando com React JS alocado no Banco BTG
-                Pacual pela DQR Tech.
+                desenvolvimento front-end para web a mais de 8 anos. Tenho
+                experiências com React, Angular e Vue. E estou explorando o
+                Firebase ultimamente.
               </p>
 
               <div className="link-group">
                 <a href="#projects" className="btn">
                   Projetos <i className="bi bi-arrow-right"></i>
                 </a>
-                {/* <a href="#" className="btn">
-                  Skills <i className="bi bi-arrow-right"></i>
-                </a> */}
               </div>
             </div>
           </div>
