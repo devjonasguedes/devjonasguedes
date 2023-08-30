@@ -7,5 +7,5 @@
 ### Meus contatos
 
 🔗 [Site](https://jonasguedes.com) <br>
-🐦 [Twitter](https://twitter.com/jgcaardoso) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/jgcaardoso/) <br>
+🐦 [Twitter](https://twitter.com/devjonasguedes) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/devjonasguedes/) <br>
