@@ -42,7 +42,7 @@ const Home: NextPage = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/jgcaardoso/"
+                    href="https://www.linkedin.com/in/devjonasguedes/"
                     className="linkedin"
                     target="_blank"
                     rel="noreferrer"
@@ -52,7 +52,7 @@ const Home: NextPage = () => {
                 </li>
                 <li>
                   <a
-                    href="https://twitter.com/jgcaardoso"
+                    href="https://twitter.com/devjonasguedes"
                     className="twitter"
                     target="_blank"
                     rel="noreferrer"
@@ -68,7 +68,7 @@ const Home: NextPage = () => {
                 Me chamo Jonas Guedes, moro em Brasília - DF. Trabalho com
                 desenvolvimento front-end para web a mais de 8 anos. Tenho
                 experiências com React, Angular e Vue. E estou explorando o
-                Firebase ultimamente.
+                Firebase e Nodejs ultimamente.
               </p>
 
               <div className="link-group">
@@ -85,11 +85,65 @@ const Home: NextPage = () => {
                 <div className="projectItem">
                   <div className="projectInfo">
                     <h2 className="projectName">Spacealley</h2>
-                    <p>React, NextJS e Firebase</p>
+                    <p>NextJS, Nodejs e Firebase</p>
                   </div>
                   <div className="projectLink">
                     <a
                       href="https://spacealley.app/"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="btn"
+                    >
+                      Ver projeto <i className="bi bi-arrow-right"></i>
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div className="projectItem">
+                  <div className="projectInfo">
+                    <h2 className="projectName">Terabyte</h2>
+                    <p>JS/TS (Puro), React, Mysql, PHP e AWS.</p>
+                  </div>
+                  <div className="projectLink">
+                    <a
+                      href="https://www.terabyteshop.com.br/"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="btn"
+                    >
+                      Ver projeto <i className="bi bi-arrow-right"></i>
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div className="projectItem">
+                  <div className="projectInfo">
+                    <h2 className="projectName">Terabyte x Asus</h2>
+                    <p>Front-end com HTML, CSS E JS.</p>
+                  </div>
+                  <div className="projectLink">
+                    <a
+                      href="https://landing.terabyteshop.com.br/asus-conquiste-a-vitoria/"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="btn"
+                    >
+                      Ver projeto <i className="bi bi-arrow-right"></i>
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div className="projectItem">
+                  <div className="projectInfo">
+                    <h2 className="projectName">Setups com IA</h2>
+                    <p>Front-end com HTML, CSS E JS.</p>
+                  </div>
+                  <div className="projectLink">
+                    <a
+                      href="https://landing.terabyteshop.com.br/setups-com-ia/"
                       target="_blank"
                       rel="noreferrer"
                       className="btn"
@@ -153,24 +207,6 @@ const Home: NextPage = () => {
                   <div className="projectLink">
                     <a
                       href="https://wizsolucoes.com.br/"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn"
-                    >
-                      Ver projeto <i className="bi bi-arrow-right"></i>
-                    </a>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div className="projectItem">
-                  <div className="projectInfo">
-                    <h2 className="projectName">Toda Eu Blog</h2>
-                    <p>Front-end e Wordpress</p>
-                  </div>
-                  <div className="projectLink">
-                    <a
-                      href="https://www.todaeu.blog.br/"
                       target="_blank"
                       rel="noreferrer"
                       className="btn"
