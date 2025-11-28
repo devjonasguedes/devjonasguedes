@@ -84,6 +84,24 @@ const Home: NextPage = () => {
               <li>
                 <div className="projectItem">
                   <div className="projectInfo">
+                    <h2 className="projectName">Linco Chat</h2>
+                    <p>NextJS</p>
+                  </div>
+                  <div className="projectLink">
+                    <a
+                      href="https://www.lincochat.com/"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="btn"
+                    >
+                      Ver projeto <i className="bi bi-arrow-right"></i>
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div className="projectItem">
+                  <div className="projectInfo">
                     <h2 className="projectName">Spacealley</h2>
                     <p>NextJS, Nodejs e Firebase</p>
                   </div>
